@@ -1,0 +1,25 @@
+.tlista{
+    display: flex;
+    justify-content:center;
+    font-family:"Inter", sans-serif;
+    font-weight:720;
+    font-size:xx-large;
+    color:#107300;
+
+}
+.titulo_mercearia{
+    display: flex;
+    justify-content:first baseline;
+    font-family: "Inter", sans-serif;
+    font-weight:280;
+    font-size: x-large;
+    color:#DC7516;
+}
+.titulo_AÇOUGUE{
+    display: flex;
+    justify-content: ;
+    font-family: ;
+    font-weight: ;
+    font-size: ;
+    color: ;
+}
